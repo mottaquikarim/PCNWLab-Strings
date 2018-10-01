@@ -1,4 +1,4 @@
-# PCNWLab Strings
+# PCNWLab Strings (~12 problems)
 Strings topic
 
 To complete this lab, do the following:
